@@ -1,0 +1,37 @@
+version: "3"
+
+services:
+  traefik:
+    image: traefik:v2.4.6
+    container_name: traefik
+    ports:
+      - 80:80
+      - 8080:8080
+      - 443:443
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - acme:/etc/traefik/acme
+    environment:
+      TZ: "Europe/Paris"
+    command: [
+      "--log.level=DEBUG",
+      "--api.insecure=true",
+      "--providers.docker=true",
+      "--providers.docker.exposedbydefault=false",
+      "--entrypoints.web.address=:80",
+      "--entrypoints.web.http.redirections.entryPoint.to=websecure",
+      "--entrypoints.web.http.redirections.entryPoint.scheme=https",
+      "--entrypoints.web.http.redirections.entrypoint.permanent=true",
+      "--entrypoints.websecure.address=:443",
+      # "--certificatesresolvers.letsencrypt.acme.caserver=https://acme-staging-v02.api.letsencrypt.org/directory",
+      "--certificatesresolvers.letsencrypt.acme.email=${ACME_EMAIL}",
+      "--certificatesresolvers.letsencrypt.acme.storage=/etc/traefik/acme/acme.json",
+      # used during the challenge
+      "--certificatesresolvers.letsencrypt.acme.httpchallenge=true",
+      "--certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web"
+      ]
+    restart: unless-stopped
+
+volumes:
+  acme:
+
