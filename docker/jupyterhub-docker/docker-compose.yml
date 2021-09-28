@@ -1,0 +1,48 @@
+version: '3'
+
+services:
+  jupyterhub:
+    build: jupyterhub
+    image: ${MY_DOMAIN}/jupyterhub
+    container_name: jupyterhub
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - jupyterhub_data:/srv/jupyterhub
+    networks:
+      - traefik_default
+    environment:
+      - TZ=Europe/Paris
+      - JUPYTERHUB_ENABLE_LAB=true
+      - DOCKER_JUPYTER_CONTAINER=${MY_DOMAIN}/jupyterlab
+      - DOCKER_NETWORK_NAME=traefik_default
+      - HUB_IP=jupyterhub
+      - PUBLIC_HOST_NAME=jupyter.${MY_DOMAIN}
+      - KEYCLOAK_HOST_NAME
+      - KEYCLOAK_REALM
+      - OAUTH_CLIENT_ID
+      - OAUTH_CLIENT_SECRET
+    labels:
+      traefik.http.routers.jupyterhub.rule: "Host(`jupyter.${MY_DOMAIN}`)"
+      # traefik.http.services.jupyterhub.loadbalancer.server.port: "8000"
+      traefik.http.routers.jupyterhub.entrypoints: "websecure"
+      traefik.http.routers.jupyterhub.tls: "true"
+      traefik.http.routers.jupyterhub.tls.certresolver: "letsencrypt"
+      traefik.http.routers.jupyterhub.tls.domains[0].main: "jupyter.${MY_DOMAIN}"
+      traefik.docker.network: "traefik_default"
+      traefik.enable: "true"
+    restart: on-failure
+
+  jupyterlab:
+    build: jupyterlab
+    image: ${MY_DOMAIN}/jupyterlab
+    container_name: jupyterlab-throaway
+    network_mode: none
+    command: echo
+
+volumes:
+  jupyterhub_data:
+
+networks:
+  traefik_default:
+    external: 
+      name: traefik_default
