@@ -1,0 +1,929 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvh-chnum="1" tvg-id="C192.api.telerama.fr" tvg-name="TF1 4K" tvg-logo="" group-title="|EU| UHD/4K FRANCE",TF1 4K
+http://otts.live:8000/50953282178305/26575968040524/78678
+#EXTINF:-1 tvg-chno="1" tvh-chnum="1" tvg-id="C192.api.telerama.fr" tvg-name="TF1 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23762
+#EXTINF:-1 tvg-chno="1" tvh-chnum="1" tvg-id="C192.api.telerama.fr" tvg-name="TF1 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 HD
+http://otts.live:8000/50953282178305/26575968040524/58
+#EXTINF:-1 tvg-chno="1" tvh-chnum="1" tvg-id="C192.api.telerama.fr" tvg-name="TF1 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TF1 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75662
+#EXTINF:-1 tvg-chno="1" tvh-chnum="1" tvg-id="C192.api.telerama.fr" tvg-name="TF1 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 SD
+http://otts.live:8000/50953282178305/26575968040524/80982
+#EXTINF:-1 tvg-chno="2" tvh-chnum="2" tvg-id="C4.api.telerama.fr" tvg-name="FRANCE 2 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 2 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23760
+#EXTINF:-1 tvg-chno="2" tvh-chnum="2" tvg-id="C4.api.telerama.fr" tvg-name="FRANCE 2 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 2 HD
+http://otts.live:8000/50953282178305/26575968040524/137
+#EXTINF:-1 tvg-chno="2" tvh-chnum="2" tvg-id="C4.api.telerama.fr" tvg-name="FRANCE 2 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",FRANCE 2 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75663
+#EXTINF:-1 tvg-chno="2" tvh-chnum="2" tvg-id="C4.api.telerama.fr" tvg-name="FRANCE 2 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 2 SD
+http://otts.live:8000/50953282178305/26575968040524/80983
+#EXTINF:-1 tvg-chno="3" tvh-chnum="3" tvg-id="C80.api.telerama.fr" tvg-name="FRANCE 3 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 3 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23759
+#EXTINF:-1 tvg-chno="3" tvh-chnum="3" tvg-id="C80.api.telerama.fr" tvg-name="FRANCE 3 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 3 HD
+http://otts.live:8000/50953282178305/26575968040524/61
+#EXTINF:-1 tvg-chno="3" tvh-chnum="3" tvg-id="C80.api.telerama.fr" tvg-name="FRANCE 3 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",FRANCE 3 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75664
+#EXTINF:-1 tvg-chno="3" tvh-chnum="3" tvg-id="C80.api.telerama.fr" tvg-name="FRANCE 3 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 3 SD
+http://otts.live:8000/50953282178305/26575968040524/80984
+#EXTINF:-1 tvg-chno="4" tvh-chnum="4" tvg-id="C34.api.telerama.fr" tvg-name="CANAL HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL HEVC
+http://otts.live:8000/50953282178305/26575968040524/75695
+#EXTINF:-1 tvg-chno="4" tvh-chnum="4" tvg-id="C34.api.telerama.fr" tvg-name="CANAL+  SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+  SD
+http://otts.live:8000/50953282178305/26575968040524/80992
+#EXTINF:-1 tvg-chno="4" tvh-chnum="4" tvg-id="C34.api.telerama.fr" tvg-name="CANAL+ FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23778
+#EXTINF:-1 tvg-chno="4" tvh-chnum="4" tvg-id="C34.api.telerama.fr" tvg-name="CANAL+ HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ HD
+http://otts.live:8000/50953282178305/26575968040524/52
+#EXTINF:-1 tvg-chno="5" tvh-chnum="5" tvg-id="C47.api.telerama.fr" tvg-name="FRANCE 5 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 5 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23757
+#EXTINF:-1 tvg-chno="5" tvh-chnum="5" tvg-id="C47.api.telerama.fr" tvg-name="FRANCE 5 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 5 HD
+http://otts.live:8000/50953282178305/26575968040524/59
+#EXTINF:-1 tvg-chno="5" tvh-chnum="5" tvg-id="C47.api.telerama.fr" tvg-name="FRANCE 5 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",FRANCE 5 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75666
+#EXTINF:-1 tvg-chno="5" tvh-chnum="5" tvg-id="C47.api.telerama.fr" tvg-name="FRANCE 5 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 5 SD
+http://otts.live:8000/50953282178305/26575968040524/80986
+#EXTINF:-1 tvg-chno="6" tvh-chnum="6" tvg-id="C118.api.telerama.fr" tvg-name="M6 FHD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",M6 FHD
+http://otts.live:8000/50953282178305/26575968040524/23756
+#EXTINF:-1 tvg-chno="6" tvh-chnum="6" tvg-id="C118.api.telerama.fr" tvg-name="M6 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",M6 HD
+http://otts.live:8000/50953282178305/26575968040524/138
+#EXTINF:-1 tvg-chno="6" tvh-chnum="6" tvg-id="C118.api.telerama.fr" tvg-name="M6 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",M6 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75667
+#EXTINF:-1 tvg-chno="6" tvh-chnum="6" tvg-id="C118.api.telerama.fr" tvg-name="M6 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",M6 SD
+http://otts.live:8000/50953282178305/26575968040524/80988
+#EXTINF:-1 tvg-chno="7" tvh-chnum="7" tvg-id="C111.api.telerama.fr" tvg-name="ARTE FR" tvg-logo="" group-title="|EU| FRANCE TNTSAT",ARTE FR
+http://otts.live:8000/50953282178305/26575968040524/338
+#EXTINF:-1 tvg-chno="7" tvh-chnum="7" tvg-id="C111.api.telerama.fr" tvg-name="ARTE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",ARTE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75668
+#EXTINF:-1 tvg-chno="7" tvh-chnum="7" tvg-id="C111.api.telerama.fr" tvg-name="ARTE SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",ARTE SD
+http://otts.live:8000/50953282178305/26575968040524/80989
+#EXTINF:-1 tvg-chno="10" tvh-chnum="10" tvg-id="C30.api.telerama.fr" tvg-name="CANAL DECALE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL DECALE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75703
+#EXTINF:-1 tvg-chno="10" tvh-chnum="10" tvg-id="C30.api.telerama.fr" tvg-name="CANAL+ DECALE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23776
+#EXTINF:-1 tvg-chno="10" tvh-chnum="10" tvg-id="C30.api.telerama.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE HD
+http://otts.live:8000/50953282178305/26575968040524/16398
+#EXTINF:-1 tvg-chno="10" tvh-chnum="10" tvg-id="C30.api.telerama.fr" tvg-name="CANAL+ DECALE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE SD
+http://otts.live:8000/50953282178305/26575968040524/80994
+#EXTINF:-1 tvg-chno="11" tvh-chnum="11" tvg-id="C35.api.telerama.fr" tvg-name="---------- Sport ----------" tvg-logo="" group-title="|EU| FRANCE SPORTS",---------- Sport ----------
+http://otts.live:8000/50953282178305/26575968040524/67859
+#EXTINF:-1 tvg-chno="11" tvh-chnum="11" tvg-id="C35.api.telerama.fr" tvg-name="CANAL SPORT HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL SPORT HEVC
+http://otts.live:8000/50953282178305/26575968040524/75697
+#EXTINF:-1 tvg-chno="11" tvh-chnum="11" tvg-id="C35.api.telerama.fr" tvg-name="CANAL+  SPORT FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAL+  SPORT FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23774
+#EXTINF:-1 tvg-chno="11" tvh-chnum="11" tvg-id="C35.api.telerama.fr" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAL+ SPORT
+http://otts.live:8000/50953282178305/26575968040524/57
+#EXTINF:-1 tvg-chno="11" tvh-chnum="11" tvg-id="C35.api.telerama.fr" tvg-name="CANAL+ SPORT SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAL+ SPORT SD
+http://otts.live:8000/50953282178305/26575968040524/80996
+#EXTINF:-1 tvg-chno="12" tvh-chnum="12" tvg-id="C33.api.telerama.fr" tvg-name="CANAL CINEMA HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL CINEMA HEVC
+http://otts.live:8000/50953282178305/26575968040524/75694
+#EXTINF:-1 tvg-chno="12" tvh-chnum="12" tvg-id="C33.api.telerama.fr" tvg-name="CANAL+ CINEMA FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23777
+#EXTINF:-1 tvg-chno="12" tvh-chnum="12" tvg-id="C33.api.telerama.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA HD
+http://otts.live:8000/50953282178305/26575968040524/56
+#EXTINF:-1 tvg-chno="13" tvh-chnum="13" tvg-id="C1563.api.telerama.fr" tvg-name="CANAL SERIES HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL SERIES HEVC
+http://otts.live:8000/50953282178305/26575968040524/75696
+#EXTINF:-1 tvg-chno="13" tvh-chnum="13" tvg-id="C1563.api.telerama.fr" tvg-name="CANAL+ SERIES FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23773
+#EXTINF:-1 tvg-chno="13" tvh-chnum="13" tvg-id="C1563.api.telerama.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES HD
+http://otts.live:8000/50953282178305/26575968040524/55
+#EXTINF:-1 tvg-chno="13" tvh-chnum="13" tvg-id="C1563.api.telerama.fr" tvg-name="CANAL+ SERIES SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES SD
+http://otts.live:8000/50953282178305/26575968040524/80995
+#EXTINF:-1 tvg-chno="14" tvh-chnum="14" tvg-id="C657.api.telerama.fr" tvg-name="CANAL FAMILY HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL FAMILY HEVC
+http://otts.live:8000/50953282178305/26575968040524/75702
+#EXTINF:-1 tvg-chno="14" tvh-chnum="14" tvg-id="C657.api.telerama.fr" tvg-name="CANAL+ FAMILY FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23775
+#EXTINF:-1 tvg-chno="14" tvh-chnum="14" tvg-id="C657.api.telerama.fr" tvg-name="CANAL+ FAMILY HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY HD
+http://otts.live:8000/50953282178305/26575968040524/53
+#EXTINF:-1 tvg-chno="14" tvh-chnum="14" tvg-id="C657.api.telerama.fr" tvg-name="CANAL+ FAMILY SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY SD
+http://otts.live:8000/50953282178305/26575968040524/80993
+#EXTINF:-1 tvg-chno="21" tvh-chnum="21" tvg-id="C282.api.telerama.fr" tvg-name="CINE  PREMIER FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE  PREMIER FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23772
+#EXTINF:-1 tvg-chno="21" tvh-chnum="21" tvg-id="C282.api.telerama.fr" tvg-name="CINE PREMIER HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CINE PREMIER HEVC
+http://otts.live:8000/50953282178305/26575968040524/75708
+#EXTINF:-1 tvg-chno="21" tvh-chnum="21" tvg-id="C282.api.telerama.fr" tvg-name="CINE+ PREMIER HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE+ PREMIER HD
+http://otts.live:8000/50953282178305/26575968040524/135
+#EXTINF:-1 tvg-chno="22" tvh-chnum="22" tvg-id="C284.api.telerama.fr" tvg-name="CINE  FRISSON FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE  FRISSON FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23771
+#EXTINF:-1 tvg-chno="22" tvh-chnum="22" tvg-id="C284.api.telerama.fr" tvg-name="CINE FRISSON HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CINE FRISSON HEVC
+http://otts.live:8000/50953282178305/26575968040524/75704
+#EXTINF:-1 tvg-chno="22" tvh-chnum="22" tvg-id="C284.api.telerama.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE+ FRISSON HD
+http://otts.live:8000/50953282178305/26575968040524/64
+#EXTINF:-1 tvg-chno="23" tvh-chnum="23" tvg-id="C283.api.telerama.fr" tvg-name="CINE EMOTION FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE EMOTION FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23769
+#EXTINF:-1 tvg-chno="23" tvh-chnum="23" tvg-id="C283.api.telerama.fr" tvg-name="CINE EMOTION HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CINE EMOTION HEVC
+http://otts.live:8000/50953282178305/26575968040524/75707
+#EXTINF:-1 tvg-chno="23" tvh-chnum="23" tvg-id="C283.api.telerama.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE+ EMOTION HD
+http://otts.live:8000/50953282178305/26575968040524/136
+#EXTINF:-1 tvg-chno="24" tvh-chnum="24" tvg-id="C401.api.telerama.fr" tvg-name="CINE  FAMIZ FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE  FAMIZ FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23770
+#EXTINF:-1 tvg-chno="24" tvh-chnum="24" tvg-id="C401.api.telerama.fr" tvg-name="CINE FAMIZ HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CINE FAMIZ HEVC
+http://otts.live:8000/50953282178305/26575968040524/75720
+#EXTINF:-1 tvg-chno="24" tvh-chnum="24" tvg-id="C401.api.telerama.fr" tvg-name="CINE+ FAMIZ HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE+ FAMIZ HD
+http://otts.live:8000/50953282178305/26575968040524/65
+#EXTINF:-1 tvg-chno="25" tvh-chnum="25" tvg-id="C285.api.telerama.fr" tvg-name="CINE CLUB FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE CLUB FULL HD
+http://otts.live:8000/50953282178305/26575968040524/89993
+#EXTINF:-1 tvg-chno="26" tvh-chnum="26" tvg-id="C287.api.telerama.fr" tvg-name="CINE CLASSIC FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE CLASSIC FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23768
+#EXTINF:-1 tvg-chno="26" tvh-chnum="26" tvg-id="C287.api.telerama.fr" tvg-name="CINE CLASSIC HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CINE CLASSIC HEVC
+http://otts.live:8000/50953282178305/26575968040524/75721
+#EXTINF:-1 tvg-chno="26" tvh-chnum="26" tvg-id="C287.api.telerama.fr" tvg-name="CINE+ CLASSIC HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE+ CLASSIC HD
+http://otts.live:8000/50953282178305/26575968040524/67
+#EXTINF:-1 tvg-chno="27" tvh-chnum="27" tvg-id="C730.api.telerama.fr" tvg-name="OCS MAX FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS MAX FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23763
+#EXTINF:-1 tvg-chno="27" tvh-chnum="27" tvg-id="C730.api.telerama.fr" tvg-name="OCS MAX HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS MAX HD
+http://otts.live:8000/50953282178305/26575968040524/2693
+#EXTINF:-1 tvg-chno="27" tvh-chnum="27" tvg-id="C730.api.telerama.fr" tvg-name="OCS MAX HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",OCS MAX HEVC
+http://otts.live:8000/50953282178305/26575968040524/75716
+#EXTINF:-1 tvg-chno="27" tvh-chnum="27" tvg-id="C730.api.telerama.fr" tvg-name="OCS MAX SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS MAX SD
+http://otts.live:8000/50953282178305/26575968040524/81000
+#EXTINF:-1 tvg-chno="28" tvh-chnum="28" tvg-id="C733.api.telerama.fr" tvg-name="OCS CITY" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CITY
+http://otts.live:8000/50953282178305/26575968040524/134
+#EXTINF:-1 tvg-chno="28" tvh-chnum="28" tvg-id="C733.api.telerama.fr" tvg-name="OCS CITY FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CITY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23765
+#EXTINF:-1 tvg-chno="28" tvh-chnum="28" tvg-id="C733.api.telerama.fr" tvg-name="OCS CITY HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",OCS CITY HEVC
+http://otts.live:8000/50953282178305/26575968040524/75717
+#EXTINF:-1 tvg-chno="28" tvh-chnum="28" tvg-id="C733.api.telerama.fr" tvg-name="OCS CITY SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CITY SD
+http://otts.live:8000/50953282178305/26575968040524/80998
+#EXTINF:-1 tvg-chno="29" tvh-chnum="29" tvg-id="C732.api.telerama.fr" tvg-name="OCS CHOC" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CHOC
+http://otts.live:8000/50953282178305/26575968040524/2561
+#EXTINF:-1 tvg-chno="29" tvh-chnum="29" tvg-id="C732.api.telerama.fr" tvg-name="OCS CHOC FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CHOC FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23766
+#EXTINF:-1 tvg-chno="29" tvh-chnum="29" tvg-id="C732.api.telerama.fr" tvg-name="OCS CHOC HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",OCS CHOC HEVC
+http://otts.live:8000/50953282178305/26575968040524/75719
+#EXTINF:-1 tvg-chno="29" tvh-chnum="29" tvg-id="C732.api.telerama.fr" tvg-name="OCS CHOC SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS CHOC SD
+http://otts.live:8000/50953282178305/26575968040524/80997
+#EXTINF:-1 tvg-chno="30" tvh-chnum="30" tvg-id="C734.api.telerama.fr" tvg-name="OCS GEANT FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS GEANT FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23764
+#EXTINF:-1 tvg-chno="30" tvh-chnum="30" tvg-id="C734.api.telerama.fr" tvg-name="OCS GEANTS" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS
+http://otts.live:8000/50953282178305/26575968040524/2682
+#EXTINF:-1 tvg-chno="30" tvh-chnum="30" tvg-id="C734.api.telerama.fr" tvg-name="OCS GEANTS HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",OCS GEANTS HEVC
+http://otts.live:8000/50953282178305/26575968040524/75718
+#EXTINF:-1 tvg-chno="30" tvh-chnum="30" tvg-id="C734.api.telerama.fr" tvg-name="OCS GEANTS SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS SD
+http://otts.live:8000/50953282178305/26575968040524/80999
+#EXTINF:-1 tvg-chno="32" tvh-chnum="32" tvg-id="C185.api.telerama.fr" tvg-name="TCM CINEMA FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TCM CINEMA FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23694
+#EXTINF:-1 tvg-chno="32" tvh-chnum="32" tvg-id="C185.api.telerama.fr" tvg-name="TCM CINEMA SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TCM CINEMA SD
+http://otts.live:8000/50953282178305/26575968040524/81002
+#EXTINF:-1 tvg-chno="33" tvh-chnum="33" tvg-id="C1562.api.telerama.fr" tvg-name="PARAMOUNT CHANNEL DECALE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL DECALE
+http://otts.live:8000/50953282178305/26575968040524/2690
+#EXTINF:-1 tvg-chno="33" tvh-chnum="33" tvg-id="C1562.api.telerama.fr" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL FULLHD
+http://otts.live:8000/50953282178305/26575968040524/23735
+#EXTINF:-1 tvg-chno="33" tvh-chnum="33" tvg-id="C1562.api.telerama.fr" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL SD
+http://otts.live:8000/50953282178305/26575968040524/81003
+#EXTINF:-1 tvg-chno="34" tvh-chnum="34" tvg-id="C10.api.telerama.fr" tvg-name="ACTION" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ACTION
+http://otts.live:8000/50953282178305/26575968040524/611
+#EXTINF:-1 tvg-chno="34" tvh-chnum="34" tvg-id="C10.api.telerama.fr" tvg-name="ACTION FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ACTION FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23681
+#EXTINF:-1 tvg-chno="34" tvh-chnum="34" tvg-id="C10.api.telerama.fr" tvg-name="ACTION HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",ACTION HEVC
+http://otts.live:8000/50953282178305/26575968040524/75706
+#EXTINF:-1 tvg-chno="34" tvh-chnum="34" tvg-id="C10.api.telerama.fr" tvg-name="ACTION SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ACTION SD
+http://otts.live:8000/50953282178305/26575968040524/81004
+#EXTINF:-1 tvg-chno="36" tvh-chnum="36" tvg-id="C2320.api.telerama.fr" tvg-name="ALTICE STUDIO" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ALTICE STUDIO
+http://otts.live:8000/50953282178305/26575968040524/22282
+#EXTINF:-1 tvg-chno="36" tvh-chnum="36" tvg-id="C2320.api.telerama.fr" tvg-name="ALTICE STUDIO FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ALTICE STUDIO FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23680
+#EXTINF:-1 tvg-chno="36" tvh-chnum="36" tvg-id="C2320.api.telerama.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ALTICE STUDIO HD
+http://otts.live:8000/50953282178305/26575968040524/22488
+#EXTINF:-1 tvg-chno="36" tvh-chnum="36" tvg-id="C2320.api.telerama.fr" tvg-name="ALTICE STUDIO HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",ALTICE STUDIO HEVC
+http://otts.live:8000/50953282178305/26575968040524/75733
+#EXTINF:-1 tvg-chno="41" tvh-chnum="41" tvg-id="C2326.api.telerama.fr" tvg-name="CINE POLAR" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CINE POLAR
+http://otts.live:8000/50953282178305/26575968040524/2685
+#EXTINF:-1 tvg-chno="41" tvh-chnum="41" tvg-id="C2326.api.telerama.fr" tvg-name="POLAR  FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",POLAR  FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23767
+#EXTINF:-1 tvg-chno="42" tvh-chnum="42" tvg-id="C2334.api.telerama.fr" tvg-name="WARNER TV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",WARNER TV
+http://otts.live:8000/50953282178305/26575968040524/22284
+#EXTINF:-1 tvg-chno="42" tvh-chnum="42" tvg-id="C2334.api.telerama.fr" tvg-name="WARNER TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",WARNER TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23697
+#EXTINF:-1 tvg-chno="42" tvh-chnum="42" tvg-id="C2334.api.telerama.fr" tvg-name="WARNER TV HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",WARNER TV HEVC
+http://otts.live:8000/50953282178305/26575968040524/75734
+#EXTINF:-1 tvg-chno="42" tvh-chnum="42" tvg-id="C2334.api.telerama.fr" tvg-name="WARNER TV SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",WARNER TV SD
+http://otts.live:8000/50953282178305/26575968040524/81008
+#EXTINF:-1 tvg-chno="43" tvh-chnum="43" tvg-id="nan" tvg-name="SERIE CLUB" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SERIE CLUB
+http://otts.live:8000/50953282178305/26575968040524/2568
+#EXTINF:-1 tvg-chno="43" tvh-chnum="43" tvg-id="nan" tvg-name="SERIE CLUB FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SERIE CLUB FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23692
+#EXTINF:-1 tvg-chno="45" tvh-chnum="45" tvg-id="C115.api.telerama.fr" tvg-name="RTL 9 HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RTL 9 HD
+http://otts.live:8000/50953282178305/26575968040524/2566
+#EXTINF:-1 tvg-chno="47" tvh-chnum="47" tvg-id="nan" tvg-name="NOVELAS FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NOVELAS FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23679
+#EXTINF:-1 tvg-chno="49" tvh-chnum="49" tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS
+http://otts.live:8000/50953282178305/26575968040524/9472
+#EXTINF:-1 tvg-chno="49" tvh-chnum="49" tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23754
+#EXTINF:-1 tvg-chno="49" tvh-chnum="49" tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TF1 SERIES FILMS HEVC
+http://otts.live:8000/50953282178305/26575968040524/75681
+#EXTINF:-1 tvg-chno="49" tvh-chnum="49" tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES-FILMS SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 SERIES-FILMS SD
+http://otts.live:8000/50953282178305/26575968040524/81023
+#EXTINF:-1 tvg-chno="61" tvh-chnum="61" tvg-id="C94.api.telerama.fr" tvg-name="INFOSPORT+" tvg-logo="" group-title="|EU| FRANCE SPORTS",INFOSPORT+
+http://otts.live:8000/50953282178305/26575968040524/1809
+#EXTINF:-1 tvg-chno="61" tvh-chnum="61" tvg-id="C94.api.telerama.fr" tvg-name="INFOSPORT+ FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",INFOSPORT+ FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23794
+#EXTINF:-1 tvg-chno="61" tvh-chnum="61" tvg-id="C94.api.telerama.fr" tvg-name="INFOSPORT+ SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",INFOSPORT+ SD
+http://otts.live:8000/50953282178305/26575968040524/81058
+#EXTINF:-1 tvg-chno="63" tvh-chnum="63" tvg-id="C76.api.telerama.fr" tvg-name="EUROSPORT 1" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 1
+http://otts.live:8000/50953282178305/26575968040524/377
+#EXTINF:-1 tvg-chno="63" tvh-chnum="63" tvg-id="C76.api.telerama.fr" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23796
+#EXTINF:-1 tvg-chno="63" tvh-chnum="63" tvg-id="C76.api.telerama.fr" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 1 SD
+http://otts.live:8000/50953282178305/26575968040524/81054
+#EXTINF:-1 tvg-chno="64" tvh-chnum="64" tvg-id="C439.api.telerama.fr" tvg-name="EUROSPORT 2" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 2
+http://otts.live:8000/50953282178305/26575968040524/2555
+#EXTINF:-1 tvg-chno="64" tvh-chnum="64" tvg-id="C439.api.telerama.fr" tvg-name="EUROSPORT 2 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 2 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23795
+#EXTINF:-1 tvg-chno="64" tvh-chnum="64" tvg-id="C439.api.telerama.fr" tvg-name="EUROSPORT 2 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",EUROSPORT 2 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75737
+#EXTINF:-1 tvg-chno="64" tvh-chnum="64" tvg-id="C439.api.telerama.fr" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EUROSPORT 2 SD
+http://otts.live:8000/50953282178305/26575968040524/81055
+#EXTINF:-1 tvg-chno="64" tvh-chnum="64" tvg-id="C439.api.telerama.fr" tvg-name="EUROSPORT HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",EUROSPORT HEVC
+http://otts.live:8000/50953282178305/26575968040524/75736
+#EXTINF:-1 tvg-chno="66" tvh-chnum="66" tvg-id="C1290.api.telerama.fr" tvg-name="BEIN 1 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BEIN 1 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75687
+#EXTINF:-1 tvg-chno="66" tvh-chnum="66" tvg-id="C1290.api.telerama.fr" tvg-name="BEIN SPORTS 1 FULLHD" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 1 FULLHD
+http://otts.live:8000/50953282178305/26575968040524/23807
+#EXTINF:-1 tvg-chno="66" tvh-chnum="66" tvg-id="C1290.api.telerama.fr" tvg-name="BEIN SPORTS 1 HD FR" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 1 HD FR
+http://otts.live:8000/50953282178305/26575968040524/3370
+#EXTINF:-1 tvg-chno="67" tvh-chnum="67" tvg-id="C1304.api.telerama.fr" tvg-name="BEIN 2 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BEIN 2 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75688
+#EXTINF:-1 tvg-chno="67" tvh-chnum="67" tvg-id="C1304.api.telerama.fr" tvg-name="BEIN SPORTS 2 FULLHD" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 2 FULLHD
+http://otts.live:8000/50953282178305/26575968040524/23806
+#EXTINF:-1 tvg-chno="67" tvh-chnum="67" tvg-id="C1304.api.telerama.fr" tvg-name="BEIN SPORTS 2 HD FR" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 2 HD FR
+http://otts.live:8000/50953282178305/26575968040524/3369
+#EXTINF:-1 tvg-chno="68" tvh-chnum="68" tvg-id="C1335.api.telerama.fr" tvg-name="BEIN 3 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BEIN 3 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75689
+#EXTINF:-1 tvg-chno="68" tvh-chnum="68" tvg-id="C1335.api.telerama.fr" tvg-name="BEIN SPORTS 3 FULLHD" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 3 FULLHD
+http://otts.live:8000/50953282178305/26575968040524/23805
+#EXTINF:-1 tvg-chno="68" tvh-chnum="68" tvg-id="C1335.api.telerama.fr" tvg-name="BEIN SPORTS 3 HD FR" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 3 HD FR
+http://otts.live:8000/50953282178305/26575968040524/3368
+#EXTINF:-1 tvg-chno="69" tvh-chnum="69" tvg-id="nan" tvg-name="RMC SPORT 1" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 1
+http://otts.live:8000/50953282178305/26575968040524/89996
+#EXTINF:-1 tvg-chno="69" tvh-chnum="69" tvg-id="nan" tvg-name="RMC SPORT 1 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23803
+#EXTINF:-1 tvg-chno="69" tvh-chnum="69" tvg-id="nan" tvg-name="RMC SPORT 1 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 1 SD
+http://otts.live:8000/50953282178305/26575968040524/81047
+#EXTINF:-1 tvg-chno="69" tvh-chnum="69" tvg-id="nan" tvg-name="RMC SPORT ACCESS 1" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT ACCESS 1
+http://otts.live:8000/50953282178305/26575968040524/46188
+#EXTINF:-1 tvg-chno="70" tvh-chnum="70" tvg-id="nan" tvg-name="RMC SPORT 2" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 2
+http://otts.live:8000/50953282178305/26575968040524/22280
+#EXTINF:-1 tvg-chno="70" tvh-chnum="70" tvg-id="nan" tvg-name="RMC SPORT 2 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 2 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23802
+#EXTINF:-1 tvg-chno="70" tvh-chnum="70" tvg-id="nan" tvg-name="RMC SPORT 2 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 2 SD
+http://otts.live:8000/50953282178305/26575968040524/81048
+#EXTINF:-1 tvg-chno="70" tvh-chnum="70" tvg-id="nan" tvg-name="RMC SPORT ACCESS 2" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT ACCESS 2
+http://otts.live:8000/50953282178305/26575968040524/46187
+#EXTINF:-1 tvg-chno="71" tvh-chnum="71" tvg-id="nan" tvg-name="RMC SPORT 3" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 3
+http://otts.live:8000/50953282178305/26575968040524/22279
+#EXTINF:-1 tvg-chno="71" tvh-chnum="71" tvg-id="nan" tvg-name="RMC SPORT 3 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 3 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23801
+#EXTINF:-1 tvg-chno="71" tvh-chnum="71" tvg-id="nan" tvg-name="RMC SPORT 3 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 3 SD
+http://otts.live:8000/50953282178305/26575968040524/81049
+#EXTINF:-1 tvg-chno="71" tvh-chnum="71" tvg-id="nan" tvg-name="RMC SPORT ACCESS 3" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT ACCESS 3
+http://otts.live:8000/50953282178305/26575968040524/46186
+#EXTINF:-1 tvg-chno="72" tvh-chnum="72" tvg-id="nan" tvg-name="RMC SPORT 4" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 4
+http://otts.live:8000/50953282178305/26575968040524/22371
+#EXTINF:-1 tvg-chno="72" tvh-chnum="72" tvg-id="nan" tvg-name="RMC SPORT 4 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 4 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23800
+#EXTINF:-1 tvg-chno="72" tvh-chnum="72" tvg-id="nan" tvg-name="RMC SPORT 4 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 4 SD
+http://otts.live:8000/50953282178305/26575968040524/81050
+#EXTINF:-1 tvg-chno="74" tvh-chnum="74" tvg-id="C1295.api.telerama.fr" tvg-name="GOLF +" tvg-logo="" group-title="|EU| FRANCE SPORTS",GOLF +
+http://otts.live:8000/50953282178305/26575968040524/5304
+#EXTINF:-1 tvg-chno="74" tvh-chnum="74" tvg-id="C1295.api.telerama.fr" tvg-name="GOLF + FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",GOLF + FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23790
+#EXTINF:-1 tvg-chno="74" tvh-chnum="74" tvg-id="C1295.api.telerama.fr" tvg-name="GOLF CHANNEL FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",GOLF CHANNEL FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23793
+#EXTINF:-1 tvg-chno="74" tvh-chnum="74" tvg-id="C1295.api.telerama.fr" tvg-name="GOLF CHANNEL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",GOLF CHANNEL HD
+http://otts.live:8000/50953282178305/26575968040524/12251
+#EXTINF:-1 tvg-chno="74" tvh-chnum="74" tvg-id="C1295.api.telerama.fr" tvg-name="GOLF CHANNEL SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",GOLF CHANNEL SD
+http://otts.live:8000/50953282178305/26575968040524/81057
+#EXTINF:-1 tvg-chno="76" tvh-chnum="76" tvg-id="C15.api.telerama.fr" tvg-name="AUTOMOTO FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",AUTOMOTO FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23792
+#EXTINF:-1 tvg-chno="77" tvh-chnum="77" tvg-id="nan" tvg-name="OL TV" tvg-logo="" group-title="|EU| FRANCE SPORTS",OL TV
+http://otts.live:8000/50953282178305/26575968040524/157136
+#EXTINF:-1 tvg-chno="78" tvh-chnum="78" tvg-id="C64.api.telerama.fr" tvg-name="EQUIDIA" tvg-logo="" group-title="|EU| FRANCE SPORTS",EQUIDIA
+http://otts.live:8000/50953282178305/26575968040524/2553
+#EXTINF:-1 tvg-chno="78" tvh-chnum="78" tvg-id="C64.api.telerama.fr" tvg-name="EQUIDIA HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",EQUIDIA HEVC
+http://otts.live:8000/50953282178305/26575968040524/75715
+#EXTINF:-1 tvg-chno="78" tvh-chnum="78" tvg-id="C64.api.telerama.fr" tvg-name="EQUIDIA LIVE" tvg-logo="" group-title="|EU| FRANCE SPORTS",EQUIDIA LIVE
+http://otts.live:8000/50953282178305/26575968040524/2552
+#EXTINF:-1 tvg-chno="78" tvh-chnum="78" tvg-id="C64.api.telerama.fr" tvg-name="EQUIDIA LIVE FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EQUIDIA LIVE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/33177
+#EXTINF:-1 tvg-chno="78" tvh-chnum="78" tvg-id="C64.api.telerama.fr" tvg-name="EQUIDIA LIVE SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",EQUIDIA LIVE SD
+http://otts.live:8000/50953282178305/26575968040524/81061
+#EXTINF:-1 tvg-chno="81" tvh-chnum="81" tvg-id="nan" tvg-name="OLYMPIA FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",OLYMPIA FULL HD
+http://otts.live:8000/50953282178305/26575968040524/89991
+#EXTINF:-1 tvg-chno="82" tvh-chnum="82" tvg-id="nan" tvg-name="NON STOP PEOPLE FULLHD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NON STOP PEOPLE FULLHD
+http://otts.live:8000/50953282178305/26575968040524/23700
+#EXTINF:-1 tvg-chno="82" tvh-chnum="82" tvg-id="nan" tvg-name="NON STOP PEOPLE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NON STOP PEOPLE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75735
+#EXTINF:-1 tvg-chno="83" tvh-chnum="83" tvg-id="C145.api.telerama.fr" tvg-name="PARIS PREMIERE FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23691
+#EXTINF:-1 tvg-chno="83" tvh-chnum="83" tvg-id="C145.api.telerama.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE HD
+http://otts.live:8000/50953282178305/26575968040524/2562
+#EXTINF:-1 tvg-chno="84" tvh-chnum="84" tvg-id="C191.api.telerama.fr" tvg-name="TEVA" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TEVA
+http://otts.live:8000/50953282178305/26575968040524/2637
+#EXTINF:-1 tvg-chno="84" tvh-chnum="84" tvg-id="C191.api.telerama.fr" tvg-name="TEVA FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TEVA FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23693
+#EXTINF:-1 tvg-chno="84" tvh-chnum="84" tvg-id="C191.api.telerama.fr" tvg-name="TEVA HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TEVA HEVC
+http://otts.live:8000/50953282178305/26575968040524/75709
+#EXTINF:-1 tvg-chno="85" tvh-chnum="85" tvg-id="C1960.api.telerama.fr" tvg-name="BET" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",BET
+http://otts.live:8000/50953282178305/26575968040524/46200
+#EXTINF:-1 tvg-chno="85" tvh-chnum="85" tvg-id="C1960.api.telerama.fr" tvg-name="BET SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",BET SD
+http://otts.live:8000/50953282178305/26575968040524/81016
+#EXTINF:-1 tvg-chno="85" tvh-chnum="85" tvg-id="C1960.api.telerama.fr" tvg-name="BET TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",BET TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23784
+#EXTINF:-1 tvg-chno="88" tvh-chnum="88" tvg-id="C445.api.telerama.fr" tvg-name="C8" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",C8
+http://otts.live:8000/50953282178305/26575968040524/3474
+#EXTINF:-1 tvg-chno="88" tvh-chnum="88" tvg-id="C445.api.telerama.fr" tvg-name="C8 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",C8 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23752
+#EXTINF:-1 tvg-chno="88" tvh-chnum="88" tvg-id="C445.api.telerama.fr" tvg-name="C8 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",C8 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75670
+#EXTINF:-1 tvg-chno="88" tvh-chnum="88" tvg-id="C445.api.telerama.fr" tvg-name="C8 SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",C8 SD
+http://otts.live:8000/50953282178305/26575968040524/81017
+#EXTINF:-1 tvg-chno="89" tvh-chnum="89" tvg-id="C119.api.telerama.fr" tvg-name="W9 FHD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",W9 FHD
+http://otts.live:8000/50953282178305/26575968040524/23753
+#EXTINF:-1 tvg-chno="89" tvh-chnum="89" tvg-id="C119.api.telerama.fr" tvg-name="W9 HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",W9 HD
+http://otts.live:8000/50953282178305/26575968040524/337
+#EXTINF:-1 tvg-chno="89" tvh-chnum="89" tvg-id="C119.api.telerama.fr" tvg-name="W9 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",W9 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75669
+#EXTINF:-1 tvg-chno="89" tvh-chnum="89" tvg-id="C119.api.telerama.fr" tvg-name="W9 SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",W9 SD
+http://otts.live:8000/50953282178305/26575968040524/81018
+#EXTINF:-1 tvg-chno="90" tvh-chnum="90" tvg-id="C195.api.telerama.fr" tvg-name="TMC +1 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TMC +1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23747
+#EXTINF:-1 tvg-chno="90" tvh-chnum="90" tvg-id="C195.api.telerama.fr" tvg-name="TMC FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TMC FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23748
+#EXTINF:-1 tvg-chno="90" tvh-chnum="90" tvg-id="C195.api.telerama.fr" tvg-name="TMC HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TMC HD
+http://otts.live:8000/50953282178305/26575968040524/2570
+#EXTINF:-1 tvg-chno="90" tvh-chnum="90" tvg-id="C195.api.telerama.fr" tvg-name="TMC HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TMC HEVC
+http://otts.live:8000/50953282178305/26575968040524/75682
+#EXTINF:-1 tvg-chno="90" tvh-chnum="90" tvg-id="C195.api.telerama.fr" tvg-name="TMC SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TMC SD
+http://otts.live:8000/50953282178305/26575968040524/81019
+#EXTINF:-1 tvg-chno="91" tvh-chnum="91" tvg-id="C446.api.telerama.fr" tvg-name="TFX" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TFX
+http://otts.live:8000/50953282178305/26575968040524/2698
+#EXTINF:-1 tvg-chno="91" tvh-chnum="91" tvg-id="C446.api.telerama.fr" tvg-name="TFX FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TFX FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23749
+#EXTINF:-1 tvg-chno="91" tvh-chnum="91" tvg-id="C446.api.telerama.fr" tvg-name="TFX HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TFX HEVC
+http://otts.live:8000/50953282178305/26575968040524/75680
+#EXTINF:-1 tvg-chno="91" tvh-chnum="91" tvg-id="C446.api.telerama.fr" tvg-name="TFX SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TFX SD
+http://otts.live:8000/50953282178305/26575968040524/81020
+#EXTINF:-1 tvg-chno="92" tvh-chnum="92" tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NRJ 12
+http://otts.live:8000/50953282178305/26575968040524/2560
+#EXTINF:-1 tvg-chno="92" tvh-chnum="92" tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NRJ 12 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23755
+#EXTINF:-1 tvg-chno="93" tvh-chnum="93" tvg-id="C458.api.telerama.fr" tvg-name="CSTAR HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CSTAR HEVC
+http://otts.live:8000/50953282178305/26575968040524/75672
+#EXTINF:-1 tvg-chno="93" tvh-chnum="93" tvg-id="C458.api.telerama.fr" tvg-name="CSTAR SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CSTAR SD
+http://otts.live:8000/50953282178305/26575968040524/81022
+#EXTINF:-1 tvg-chno="95" tvh-chnum="95" tvg-id="C1403.api.telerama.fr" tvg-name="6TER FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",6TER FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23750
+#EXTINF:-1 tvg-chno="95" tvh-chnum="95" tvg-id="C1403.api.telerama.fr" tvg-name="6TER HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",6TER HD
+http://otts.live:8000/50953282178305/26575968040524/673
+#EXTINF:-1 tvg-chno="95" tvh-chnum="95" tvg-id="C1403.api.telerama.fr" tvg-name="6TER SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",6TER SD
+http://otts.live:8000/50953282178305/26575968040524/81024
+#EXTINF:-1 tvg-chno="96" tvh-chnum="96" tvg-id="C1402.api.telerama.fr" tvg-name="RMC STORY" tvg-logo="" group-title="|EU| FRANCE TNTSAT",RMC STORY
+http://otts.live:8000/50953282178305/26575968040524/2683
+#EXTINF:-1 tvg-chno="96" tvh-chnum="96" tvg-id="C1402.api.telerama.fr" tvg-name="RMC STORY FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",RMC STORY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/46189
+#EXTINF:-1 tvg-chno="96" tvh-chnum="96" tvg-id="C1402.api.telerama.fr" tvg-name="RMC STORY HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC STORY HEVC
+http://otts.live:8000/50953282178305/26575968040524/75685
+#EXTINF:-1 tvg-chno="96" tvh-chnum="96" tvg-id="C1402.api.telerama.fr" tvg-name="RMC STORY SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",RMC STORY SD
+http://otts.live:8000/50953282178305/26575968040524/81025
+#EXTINF:-1 tvg-chno="97" tvh-chnum="97" tvg-id="C1399.api.telerama.fr" tvg-name="CHERIE 25" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CHERIE 25
+http://otts.live:8000/50953282178305/26575968040524/133
+#EXTINF:-1 tvg-chno="97" tvh-chnum="97" tvg-id="C1399.api.telerama.fr" tvg-name="CHERIE 25 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CHERIE 25 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23689
+#EXTINF:-1 tvg-chno="97" tvh-chnum="97" tvg-id="C1399.api.telerama.fr" tvg-name="CHERIE 25 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CHERIE 25 SD
+http://otts.live:8000/50953282178305/26575968040524/81026
+#EXTINF:-1 tvg-chno="98" tvh-chnum="98" tvg-id="nan" tvg-name="TV5 MONDE FBS HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TV5 MONDE FBS HD
+http://otts.live:8000/50953282178305/26575968040524/79358
+#EXTINF:-1 tvg-chno="112" tvh-chnum="112" tvg-id="nan" tvg-name="PLANETE A&E HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",PLANETE A&E HEVC
+http://otts.live:8000/50953282178305/26575968040524/75729
+#EXTINF:-1 tvg-chno="112" tvh-chnum="112" tvg-id="nan" tvg-name="PLANETE+  A&E" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+  A&E
+http://otts.live:8000/50953282178305/26575968040524/2689
+#EXTINF:-1 tvg-chno="112" tvh-chnum="112" tvg-id="nan" tvg-name="PLANETE+ A&E FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+ A&E FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23738
+#EXTINF:-1 tvg-chno="114" tvh-chnum="114" tvg-id="C1072.api.telerama.fr" tvg-name="MUSEUM FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MUSEUM FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23782
+#EXTINF:-1 tvg-chno="115" tvh-chnum="115" tvg-id="C243.api.telerama.fr" tvg-name="NATIONAL GEOGRAPHIC FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NATIONAL GEOGRAPHIC FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23733
+#EXTINF:-1 tvg-chno="115" tvh-chnum="115" tvg-id="C243.api.telerama.fr" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NATIONAL GEOGRAPHIC SD
+http://otts.live:8000/50953282178305/26575968040524/81032
+#EXTINF:-1 tvg-chno="116" tvh-chnum="116" tvg-id="C719.api.telerama.fr" tvg-name="NATIONAL GEO WILD FR" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NATIONAL GEO WILD FR
+http://otts.live:8000/50953282178305/26575968040524/2559
+#EXTINF:-1 tvg-chno="116" tvh-chnum="116" tvg-id="C719.api.telerama.fr" tvg-name="NATIONAL GEO WILD FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NATIONAL GEO WILD FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23732
+#EXTINF:-1 tvg-chno="116" tvh-chnum="116" tvg-id="C719.api.telerama.fr" tvg-name="NATIONAL GEO WILD SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NATIONAL GEO WILD SD
+http://otts.live:8000/50953282178305/26575968040524/81033
+#EXTINF:-1 tvg-chno="117" tvh-chnum="117" tvg-id="C451.api.telerama.fr" tvg-name="USHUAIA TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",USHUAIA TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23742
+#EXTINF:-1 tvg-chno="117" tvh-chnum="117" tvg-id="C451.api.telerama.fr" tvg-name="USHUAIA TV SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",USHUAIA TV SD
+http://otts.live:8000/50953282178305/26575968040524/81040
+#EXTINF:-1 tvg-chno="118" tvh-chnum="118" tvg-id="C88.api.telerama.fr" tvg-name="HISTOIRE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",HISTOIRE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23743
+#EXTINF:-1 tvg-chno="118" tvh-chnum="118" tvg-id="C88.api.telerama.fr" tvg-name="HISTOIRE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",HISTOIRE SD
+http://otts.live:8000/50953282178305/26575968040524/81041
+#EXTINF:-1 tvg-chno="119" tvh-chnum="119" tvg-id="C7.api.telerama.fr" tvg-name="TOUTE L HISTOIRE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TOUTE L HISTOIRE
+http://otts.live:8000/50953282178305/26575968040524/2686
+#EXTINF:-1 tvg-chno="119" tvh-chnum="119" tvg-id="C7.api.telerama.fr" tvg-name="TOUTE L HISTOIRE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",TOUTE L HISTOIRE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75678
+#EXTINF:-1 tvg-chno="119" tvh-chnum="119" tvg-id="C7.api.telerama.fr" tvg-name="TOUTE L'HISTOIRE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TOUTE L'HISTOIRE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23744
+#EXTINF:-1 tvg-chno="120" tvh-chnum="120" tvg-id="C63.api.telerama.fr" tvg-name="SCIENCE ET VIE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SCIENCE ET VIE
+http://otts.live:8000/50953282178305/26575968040524/2567
+#EXTINF:-1 tvg-chno="120" tvh-chnum="120" tvg-id="C63.api.telerama.fr" tvg-name="SCIENCE ET VIE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SCIENCE ET VIE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23739
+#EXTINF:-1 tvg-chno="120" tvh-chnum="120" tvg-id="C63.api.telerama.fr" tvg-name="SCIENCES ET VIE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SCIENCES ET VIE SD
+http://otts.live:8000/50953282178305/26575968040524/81042
+#EXTINF:-1 tvg-chno="120" tvh-chnum="120" tvg-id="C63.api.telerama.fr" tvg-name="SCIENCES&VIE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",SCIENCES&VIE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75732
+#EXTINF:-1 tvg-chno="122" tvh-chnum="122" tvg-id="C38.api.telerama.fr" tvg-name="CHASSE & PECHE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CHASSE & PECHE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23731
+#EXTINF:-1 tvg-chno="122" tvh-chnum="122" tvg-id="C38.api.telerama.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CHASSE & PECHE HD
+http://otts.live:8000/50953282178305/26575968040524/471
+#EXTINF:-1 tvg-chno="122" tvh-chnum="122" tvg-id="C38.api.telerama.fr" tvg-name="CHASSE & PECHE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CHASSE & PECHE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75731
+#EXTINF:-1 tvg-chno="122" tvh-chnum="122" tvg-id="C38.api.telerama.fr" tvg-name="CHASSE ET PECHE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CHASSE ET PECHE SD
+http://otts.live:8000/50953282178305/26575968040524/81045
+#EXTINF:-1 tvg-chno="123" tvh-chnum="123" tvg-id="C12.api.telerama.fr" tvg-name="ANIMAUX FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ANIMAUX FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23741
+#EXTINF:-1 tvg-chno="123" tvh-chnum="123" tvg-id="C12.api.telerama.fr" tvg-name="ANIMAUX HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ANIMAUX HD
+http://otts.live:8000/50953282178305/26575968040524/478
+#EXTINF:-1 tvg-chno="123" tvh-chnum="123" tvg-id="C12.api.telerama.fr" tvg-name="ANIMAUX HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",ANIMAUX HEVC
+http://otts.live:8000/50953282178305/26575968040524/75698
+#EXTINF:-1 tvg-chno="123" tvh-chnum="123" tvg-id="C12.api.telerama.fr" tvg-name="ANIMAUX SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ANIMAUX SD
+http://otts.live:8000/50953282178305/26575968040524/81043
+#EXTINF:-1 tvg-chno="126" tvh-chnum="126" tvg-id="C1400.api.telerama.fr" tvg-name="RMC DECOUVERTE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RMC DECOUVERTE
+http://otts.live:8000/50953282178305/26575968040524/2565
+#EXTINF:-1 tvg-chno="126" tvh-chnum="126" tvg-id="C1400.api.telerama.fr" tvg-name="RMC DECOUVERTE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RMC DECOUVERTE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23726
+#EXTINF:-1 tvg-chno="126" tvh-chnum="126" tvg-id="C1400.api.telerama.fr" tvg-name="RMC DECOUVERTE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC DECOUVERTE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75686
+#EXTINF:-1 tvg-chno="126" tvh-chnum="126" tvg-id="C1400.api.telerama.fr" tvg-name="RMC DECOUVERTE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RMC DECOUVERTE SD
+http://otts.live:8000/50953282178305/26575968040524/81046
+#EXTINF:-1 tvg-chno="152" tvh-chnum="152" tvg-id="C128.api.telerama.fr" tvg-name="MTV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MTV
+http://otts.live:8000/50953282178305/26575968040524/46207
+#EXTINF:-1 tvg-chno="152" tvh-chnum="152" tvg-id="C128.api.telerama.fr" tvg-name="MTV FRANCE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MTV FRANCE
+http://otts.live:8000/50953282178305/26575968040524/4031
+#EXTINF:-1 tvg-chno="152" tvh-chnum="152" tvg-id="C128.api.telerama.fr" tvg-name="MTV FRANCE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MTV FRANCE SD
+http://otts.live:8000/50953282178305/26575968040524/81010
+#EXTINF:-1 tvg-chno="153" tvh-chnum="153" tvg-id="C121.api.telerama.fr" tvg-name="MCM" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MCM
+http://otts.live:8000/50953282178305/26575968040524/46212
+#EXTINF:-1 tvg-chno="153" tvh-chnum="153" tvg-id="C121.api.telerama.fr" tvg-name="MCM SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MCM SD
+http://otts.live:8000/50953282178305/26575968040524/81013
+#EXTINF:-1 tvg-chno="153" tvh-chnum="153" tvg-id="C121.api.telerama.fr" tvg-name="MCM TOP" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MCM TOP
+http://otts.live:8000/50953282178305/26575968040524/46211
+#EXTINF:-1 tvg-chno="153" tvh-chnum="153" tvg-id="C121.api.telerama.fr" tvg-name="MCM TOP HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",MCM TOP HEVC
+http://otts.live:8000/50953282178305/26575968040524/75714
+#EXTINF:-1 tvg-chno="158" tvh-chnum="158" tvg-id="C87.api.telerama.fr" tvg-name="GAME ONE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",GAME ONE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75741
+#EXTINF:-1 tvg-chno="159" tvh-chnum="159" tvg-id="nan" tvg-name="ES1 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ES1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23783
+#EXTINF:-1 tvg-chno="160" tvh-chnum="160" tvg-id="C124.api.telerama.fr" tvg-name="LA CHAINE METEO HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",LA CHAINE METEO HD
+http://otts.live:8000/50953282178305/26575968040524/79337
+#EXTINF:-1 tvg-chno="161" tvh-chnum="161" tvg-id="C226.api.telerama.fr" tvg-name="CNEWS" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CNEWS
+http://otts.live:8000/50953282178305/26575968040524/336
+#EXTINF:-1 tvg-chno="161" tvh-chnum="161" tvg-id="C226.api.telerama.fr" tvg-name="CNEWS HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CNEWS HD
+http://otts.live:8000/50953282178305/26575968040524/79342
+#EXTINF:-1 tvg-chno="161" tvh-chnum="161" tvg-id="C226.api.telerama.fr" tvg-name="CNEWS HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CNEWS HEVC
+http://otts.live:8000/50953282178305/26575968040524/75671
+#EXTINF:-1 tvg-chno="161" tvh-chnum="161" tvg-id="C226.api.telerama.fr" tvg-name="CNEWS SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CNEWS SD
+http://otts.live:8000/50953282178305/26575968040524/81064
+#EXTINF:-1 tvg-chno="162" tvh-chnum="162" tvg-id="nan" tvg-name="BFM HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BFM HEVC
+http://otts.live:8000/50953282178305/26575968040524/75742
+#EXTINF:-1 tvg-chno="162" tvh-chnum="162" tvg-id="nan" tvg-name="BFM TV" tvg-logo="" group-title="|EU| FRANCE TNTSAT",BFM TV
+http://otts.live:8000/50953282178305/26575968040524/2541
+#EXTINF:-1 tvg-chno="162" tvh-chnum="162" tvg-id="nan" tvg-name="BFM TV HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BFM TV HEVC
+http://otts.live:8000/50953282178305/26575968040524/75674
+#EXTINF:-1 tvg-chno="163" tvh-chnum="163" tvg-id="C112.api.telerama.fr" tvg-name="LCI" tvg-logo="" group-title="|EU| FRANCE TNTSAT",LCI
+http://otts.live:8000/50953282178305/26575968040524/334
+#EXTINF:-1 tvg-chno="163" tvh-chnum="163" tvg-id="C112.api.telerama.fr" tvg-name="LCI HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",LCI HEVC
+http://otts.live:8000/50953282178305/26575968040524/75673
+#EXTINF:-1 tvg-chno="164" tvh-chnum="164" tvg-id="nan" tvg-name="FRANCE INFO HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE INFO HD
+http://otts.live:8000/50953282178305/26575968040524/79339
+#EXTINF:-1 tvg-chno="164" tvh-chnum="164" tvg-id="nan" tvg-name="FRANCE INFO SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE INFO SD
+http://otts.live:8000/50953282178305/26575968040524/81065
+#EXTINF:-1 tvg-chno="166" tvh-chnum="166" tvg-id="C529.api.telerama.fr" tvg-name="France 24" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 24
+http://otts.live:8000/50953282178305/26575968040524/8096
+#EXTINF:-1 tvg-chno="167" tvh-chnum="167" tvg-id="C140.api.telerama.fr" tvg-name="EURONEWS FR" tvg-logo="" group-title="|EU| FRANCE TNTSAT",EURONEWS FR
+http://otts.live:8000/50953282178305/26575968040524/674
+#EXTINF:-1 tvg-chno="167" tvh-chnum="167" tvg-id="C140.api.telerama.fr" tvg-name="EURONEWS FRANCE HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",EURONEWS FRANCE HD
+http://otts.live:8000/50953282178305/26575968040524/79341
+#EXTINF:-1 tvg-chno="171" tvh-chnum="171" tvg-id="C1073.api.telerama.fr" tvg-name="BFM BUSINESS" tvg-logo="" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS
+http://otts.live:8000/50953282178305/26575968040524/78249
+#EXTINF:-1 tvg-chno="171" tvh-chnum="171" tvg-id="C1073.api.telerama.fr" tvg-name="BFM BUSINESS SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS SD
+http://otts.live:8000/50953282178305/26575968040524/81062
+#EXTINF:-1 tvg-chno="175" tvh-chnum="175" tvg-id="nan" tvg-name="I24 NEWS HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",I24 NEWS HD
+http://otts.live:8000/50953282178305/26575968040524/79340
+#EXTINF:-1 tvg-chno="181" tvh-chnum="181" tvg-id="C453.api.telerama.fr" tvg-name="M6 MUSIC HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",M6 MUSIC HEVC
+http://otts.live:8000/50953282178305/26575968040524/75700
+#EXTINF:-1 tvg-chno="181" tvh-chnum="181" tvg-id="C453.api.telerama.fr" tvg-name="M6 MUSIC HITS" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",M6 MUSIC HITS
+http://otts.live:8000/50953282178305/26575968040524/4032
+#EXTINF:-1 tvg-chno="182" tvh-chnum="182" tvg-id="C262.api.telerama.fr" tvg-name="MTV HITS" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MTV HITS
+http://otts.live:8000/50953282178305/26575968040524/46208
+#EXTINF:-1 tvg-chno="183" tvh-chnum="183" tvg-id="C605.api.telerama.fr" tvg-name="NRJ TV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NRJ TV
+http://otts.live:8000/50953282178305/26575968040524/46209
+#EXTINF:-1 tvg-chno="183" tvh-chnum="183" tvg-id="C605.api.telerama.fr" tvg-name="NRJ TV SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NRJ TV SD
+http://otts.live:8000/50953282178305/26575968040524/81078
+#EXTINF:-1 tvg-chno="184" tvh-chnum="184" tvg-id="C325.api.telerama.fr" tvg-name="TRACE URBAN" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TRACE URBAN
+http://otts.live:8000/50953282178305/26575968040524/46202
+#EXTINF:-1 tvg-chno="186" tvh-chnum="186" tvg-id="C241.api.telerama.fr" tvg-name="RFM TV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RFM TV
+http://otts.live:8000/50953282178305/26575968040524/46210
+#EXTINF:-1 tvg-chno="188" tvh-chnum="188" tvg-id="C265.api.telerama.fr" tvg-name="MELODY TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MELODY TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/89992
+#EXTINF:-1 tvg-chno="200" tvh-chnum="200" tvg-id="C125.api.telerama.fr" tvg-name="MEZZO FR" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MEZZO FR
+http://otts.live:8000/50953282178305/26575968040524/46198
+#EXTINF:-1 tvg-chno="200" tvh-chnum="200" tvg-id="C125.api.telerama.fr" tvg-name="MEZZO SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MEZZO SD
+http://otts.live:8000/50953282178305/26575968040524/81077
+#EXTINF:-1 tvg-chno="201" tvh-chnum="201" tvg-id="C907.api.telerama.fr" tvg-name="MEZZO LIVE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MEZZO LIVE
+http://otts.live:8000/50953282178305/26575968040524/46199
+#EXTINF:-1 tvg-chno="201" tvh-chnum="201" tvg-id="C907.api.telerama.fr" tvg-name="MEZZO LIVE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MEZZO LIVE SD
+http://otts.live:8000/50953282178305/26575968040524/81076
+#EXTINF:-1 tvg-chno="314" tvh-chnum="314" tvg-id="C78.api.telerama.fr" tvg-name="FRANCE 4 FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 4 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23758
+#EXTINF:-1 tvg-chno="314" tvh-chnum="314" tvg-id="C78.api.telerama.fr" tvg-name="FRANCE 4 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 4 HD
+http://otts.live:8000/50953282178305/26575968040524/60
+#EXTINF:-1 tvg-chno="314" tvh-chnum="314" tvg-id="C78.api.telerama.fr" tvg-name="FRANCE 4 SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",FRANCE 4 SD
+http://otts.live:8000/50953282178305/26575968040524/80985
+#EXTINF:-1 tvg-chno="318" tvh-chnum="318" tvg-id="C482.api.telerama.fr" tvg-name="GULLI HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",GULLI HEVC
+http://otts.live:8000/50953282178305/26575968040524/75676
+#EXTINF:-1 tvg-chno="321" tvh-chnum="321" tvg-id="C1401.api.telerama.fr" tvg-name="L EQUIPE 21" tvg-logo="" group-title="|EU| FRANCE SPORTS",L EQUIPE 21
+http://otts.live:8000/50953282178305/26575968040524/2554
+#EXTINF:-1 tvg-chno="321" tvh-chnum="321" tvg-id="C1401.api.telerama.fr" tvg-name="L EQUIPE 21 FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",L EQUIPE 21 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23791
+#EXTINF:-1 tvg-chno="321" tvh-chnum="321" tvg-id="C1401.api.telerama.fr" tvg-name="L'EQUIPE 21 SD" tvg-logo="" group-title="|EU| FRANCE SPORTS",L'EQUIPE 21 SD
+http://otts.live:8000/50953282178305/26575968040524/81059
+#EXTINF:-1 tvg-chno="321" tvh-chnum="321" tvg-id="C1401.api.telerama.fr" tvg-name="L'EQUIPE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",L'EQUIPE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75677
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- Cinema ----------" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",---------- Cinema ----------
+http://otts.live:8000/50953282178305/26575968040524/64489
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- Culture ----------" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",---------- Culture ----------
+http://up.otttv.co/Slimbox%20Series/ottopluslogo.mp4
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- Divertissement ----------" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",---------- Divertissement ----------
+http://otts.live:8000/50953282178305/26575968040524/64490
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- Information ----------" tvg-logo="" group-title="|EU| FRANCE TNTSAT",---------- Information ----------
+http://otts.live:8000/50953282178305/26575968040524/64492
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- Musique ----------" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",---------- Musique ----------
+http://up.otttv.co/Slimbox%20Series/ottopluslogo.mp4
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="---------- TNT-SAT ----------" tvg-logo="" group-title="|EU| FRANCE TNTSAT",---------- TNT-SAT ----------
+http://otts.live:8000/50953282178305/26575968040524/64491
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="----------BOX OFFICE ----------" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",----------BOX OFFICE ----------
+http://up.otttv.co/Slimbox%20Series/ottopluslogo.mp4
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="13 EME RUE" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",13 EME RUE
+http://otts.live:8000/50953282178305/26575968040524/2548
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="13 EME RUE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",13 EME RUE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23699
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="13EME RUE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",13EME RUE SD
+http://otts.live:8000/50953282178305/26575968040524/81007
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 1
+http://otts.live:8000/50953282178305/26575968040524/544
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 2
+http://otts.live:8000/50953282178305/26575968040524/545
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 3
+http://otts.live:8000/50953282178305/26575968040524/546
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 4
+http://otts.live:8000/50953282178305/26575968040524/539
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 5
+http://otts.live:8000/50953282178305/26575968040524/2612
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 6" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 6
+http://otts.live:8000/50953282178305/26575968040524/2613
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 7
+http://otts.live:8000/50953282178305/26575968040524/2653
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 8
+http://otts.live:8000/50953282178305/26575968040524/2654
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="A LA MAISON FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",A LA MAISON FULL HD
+http://otts.live:8000/50953282178305/26575968040524/96183
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="AB XPLORE HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",AB XPLORE HD
+http://otts.live:8000/50953282178305/26575968040524/22481
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="AB1" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",AB1
+http://otts.live:8000/50953282178305/26575968040524/2537
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="AB1 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",AB1 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23683
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="AB3" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",AB3
+http://otts.live:8000/50953282178305/26575968040524/46190
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="AB3 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",AB3 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23682
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="AUTOMOTO LA CHAINE HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",AUTOMOTO LA CHAINE HD
+http://otts.live:8000/50953282178305/26575968040524/47960
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="BE CURIOUS FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",BE CURIOUS FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23785
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 10" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 10
+http://otts.live:8000/50953282178305/26575968040524/89365
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 4
+http://otts.live:8000/50953282178305/26575968040524/3900
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 5
+http://otts.live:8000/50953282178305/26575968040524/3901
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 6
+http://otts.live:8000/50953282178305/26575968040524/3902
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 7
+http://otts.live:8000/50953282178305/26575968040524/3903
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 8
+http://otts.live:8000/50953282178305/26575968040524/3904
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BEIN SPORT MAX 9" tvg-logo="" group-title="|EU| FRANCE SPORTS",BEIN SPORT MAX 9
+http://otts.live:8000/50953282178305/26575968040524/4040
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BFM LYON HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",BFM LYON HD
+http://otts.live:8000/50953282178305/26575968040524/79338
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="BFM PARIS FULL HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",BFM PARIS FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23745
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="BOOMERANG HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",BOOMERANG HEVC
+http://otts.live:8000/50953282178305/26575968040524/75705
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="C STAR" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",C STAR
+http://otts.live:8000/50953282178305/26575968040524/2550
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL 31 HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",CANAL 31 HD
+http://otts.live:8000/50953282178305/26575968040524/79347
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL J HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CANAL J HEVC
+http://otts.live:8000/50953282178305/26575968040524/75727
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL PLAY 1
+http://otts.live:8000/50953282178305/26575968040524/67849
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL PLAY 2" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL PLAY 2
+http://otts.live:8000/50953282178305/26575968040524/67848
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL PLAY 3
+http://otts.live:8000/50953282178305/26575968040524/67847
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL PLAY 4
+http://otts.live:8000/50953282178305/26575968040524/67846
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL PLAY 5" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CANAL PLAY 5
+http://otts.live:8000/50953282178305/26575968040524/67845
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CANAL+ LIGUE 1 HD (ONLY MATCH)" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAL+ LIGUE 1 HD (ONLY MATCH)
+http://otts.live:8000/50953282178305/26575968040524/157091
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="CARTOON N HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",CARTOON N HEVC
+http://otts.live:8000/50953282178305/26575968040524/75701
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="COMEDIE  SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",COMEDIE  SD
+http://otts.live:8000/50953282178305/26575968040524/81005
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="COMEDIE+ FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",COMEDIE+ FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23684
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="COMEDIE+ HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",COMEDIE+ HD
+http://otts.live:8000/50953282178305/26575968040524/2549
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CRIME DISTRICT
+http://otts.live:8000/50953282178305/26575968040524/46193
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="CRIME DISTRICT SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",CRIME DISTRICT SD
+http://otts.live:8000/50953282178305/26575968040524/81006
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="Comedy central" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Comedy central
+http://otts.live:8000/50953282178305/26575968040524/98917
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DEMAIN ! IDF" tvg-logo="" group-title="|EU| FRANCE TNTSAT",DEMAIN ! IDF
+http://otts.live:8000/50953282178305/26575968040524/79346
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY FAMILLY SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY FAMILLY SD
+http://otts.live:8000/50953282178305/26575968040524/81036
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="DISCOVERY FAMILY FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY FAMILY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23728
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="DISCOVERY FAMILY HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISCOVERY FAMILY HEVC
+http://otts.live:8000/50953282178305/26575968040524/75724
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23730
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY HD
+http://otts.live:8000/50953282178305/26575968040524/63
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISCOVERY HEVC
+http://otts.live:8000/50953282178305/26575968040524/75723
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY INVES HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISCOVERY INVES HEVC
+http://otts.live:8000/50953282178305/26575968040524/75726
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="DISCOVERY INVESTIGATION FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY INVESTIGATION FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23727
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="DISCOVERY INVESTIGATION SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY INVESTIGATION SD
+http://otts.live:8000/50953282178305/26575968040524/81037
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY SCIENCE FR" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY SCIENCE FR
+http://otts.live:8000/50953282178305/26575968040524/62
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY SCIENCE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23729
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISCOVERY SCIENCE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75725
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY SCIENCE SD
+http://otts.live:8000/50953282178305/26575968040524/81035
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISCOVERY SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",DISCOVERY SD
+http://otts.live:8000/50953282178305/26575968040524/81034
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="DISNEY CHANNEL HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISNEY CHANNEL HEVC
+http://otts.live:8000/50953282178305/26575968040524/75712
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISNEY JUNIOR HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISNEY JUNIOR HEVC
+http://otts.live:8000/50953282178305/26575968040524/75713
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="DISNEY+ HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",DISNEY+ HEVC
+http://otts.live:8000/50953282178305/26575968040524/96181
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="E!" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",E!
+http://otts.live:8000/50953282178305/26575968040524/5318
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="E! ENTERTAINMENT FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",E! ENTERTAINMENT FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23690
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="E! ENTERTAINMENT SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",E! ENTERTAINMENT SD
+http://otts.live:8000/50953282178305/26575968040524/81012
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="ELLE GIRL" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ELLE GIRL
+http://otts.live:8000/50953282178305/26575968040524/46192
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="ELLE GIRL SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",ELLE GIRL SD
+http://otts.live:8000/50953282178305/26575968040524/81011
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="FOOT+  FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",FOOT+  FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23789
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="FRANCE4 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",FRANCE4 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75665
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Alpes" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Alpes
+http://otts.live:8000/50953282178305/26575968040524/157114
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Alsace" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Alsace
+http://otts.live:8000/50953282178305/26575968040524/157115
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Aquitaine" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Aquitaine
+http://otts.live:8000/50953282178305/26575968040524/157116
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Auvergne" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Auvergne
+http://otts.live:8000/50953282178305/26575968040524/157117
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Basse-Normandie" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Basse-Normandie
+http://otts.live:8000/50953282178305/26575968040524/157118
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Bourgogne" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Bourgogne
+http://otts.live:8000/50953282178305/26575968040524/157119
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Bretagne" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Bretagne
+http://otts.live:8000/50953282178305/26575968040524/157120
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Centre" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Centre
+http://otts.live:8000/50953282178305/26575968040524/157121
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Champagne-Ardenne" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Champagne-Ardenne
+http://otts.live:8000/50953282178305/26575968040524/157122
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Corse Via Stella" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Corse Via Stella
+http://otts.live:8000/50953282178305/26575968040524/157123
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Cote d'Azur" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Cote d'Azur
+http://otts.live:8000/50953282178305/26575968040524/157124
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Franche-Comte" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Franche-Comte
+http://otts.live:8000/50953282178305/26575968040524/157125
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Haute-Normandie" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Haute-Normandie
+http://otts.live:8000/50953282178305/26575968040524/157126
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Languedoc" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Languedoc
+http://otts.live:8000/50953282178305/26575968040524/157127
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Limousin" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Limousin
+http://otts.live:8000/50953282178305/26575968040524/157128
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Lorraine" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Lorraine
+http://otts.live:8000/50953282178305/26575968040524/157129
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Midi-Pyrenees" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Midi-Pyrenees
+http://otts.live:8000/50953282178305/26575968040524/157130
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Nord-Pas de Calais" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Nord-Pas de Calais
+http://otts.live:8000/50953282178305/26575968040524/157131
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Picardie" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Picardie
+http://otts.live:8000/50953282178305/26575968040524/157132
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Poitou-Charentes" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Poitou-Charentes
+http://otts.live:8000/50953282178305/26575968040524/157133
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Provence-Alpes" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Provence-Alpes
+http://otts.live:8000/50953282178305/26575968040524/157134
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="France 3 Rhone-Alpes" tvg-logo="" group-title="|EU| FRANCE TNTSAT",France 3 Rhone-Alpes
+http://otts.live:8000/50953282178305/26575968040524/157135
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="GRAND LILLE TV HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",GRAND LILLE TV HD
+http://otts.live:8000/50953282178305/26575968040524/79344
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="IDF 1 HD/SD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",IDF 1 HD/SD
+http://otts.live:8000/50953282178305/26575968040524/79345
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",LA CHAINE PARLEMENTAIRE HD
+http://otts.live:8000/50953282178305/26575968040524/79348
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="MOTORSPORT FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",MOTORSPORT FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23788
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MULTISPORTS 1 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 1 HD
+http://otts.live:8000/50953282178305/26575968040524/78984
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 2
+http://otts.live:8000/50953282178305/26575968040524/78985
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 3
+http://otts.live:8000/50953282178305/26575968040524/78986
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 4
+http://otts.live:8000/50953282178305/26575968040524/78987
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 5
+http://otts.live:8000/50953282178305/26575968040524/78988
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="MULTISPORTS 6" tvg-logo="" group-title="|EU| FRANCE SPORTS",MULTISPORTS 6
+http://otts.live:8000/50953282178305/26575968040524/78989
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="MY CUISINE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",MY CUISINE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75710
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MY CUISINE TV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MY CUISINE TV
+http://otts.live:8000/50953282178305/26575968040524/54958
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MY CUISINE TV SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MY CUISINE TV SD
+http://otts.live:8000/50953282178305/26575968040524/81038
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="MY ZEN TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",MY ZEN TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23781
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="My Comedy" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",My Comedy
+http://otts.live:8000/50953282178305/26575968040524/98918
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NAT GEO HD
+http://otts.live:8000/50953282178305/26575968040524/139
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="NAT GEO WILD HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NAT GEO WILD HEVC
+http://otts.live:8000/50953282178305/26575968040524/75699
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="NATIONAL GEO CHANNEL HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NATIONAL GEO CHANNEL HEVC
+http://otts.live:8000/50953282178305/26575968040524/75711
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NAUTICAL" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NAUTICAL
+http://otts.live:8000/50953282178305/26575968040524/46194
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NAUTICAL SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NAUTICAL SD
+http://otts.live:8000/50953282178305/26575968040524/81079
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NICK JUNIOR HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NICK JUNIOR HEVC
+http://otts.live:8000/50953282178305/26575968040524/75738
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NICKELODEON 4TEEN HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NICKELODEON 4TEEN HEVC
+http://otts.live:8000/50953282178305/26575968040524/75739
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NICKELODEON HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NICKELODEON HEVC
+http://otts.live:8000/50953282178305/26575968040524/75740
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NOLLYWOOD FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NOLLYWOOD FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23780
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NRJ12 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",NRJ12 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75679
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="NRJ12 SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",NRJ12 SD
+http://otts.live:8000/50953282178305/26575968040524/81021
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 1" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 1
+http://otts.live:8000/50953282178305/26575968040524/67844
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 2" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 2
+http://otts.live:8000/50953282178305/26575968040524/67843
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 3" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 3
+http://otts.live:8000/50953282178305/26575968040524/67842
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 4" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 4
+http://otts.live:8000/50953282178305/26575968040524/67841
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 5" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 5
+http://otts.live:8000/50953282178305/26575968040524/67840
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="Orange Cine 6" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 6
+http://otts.live:8000/50953282178305/26575968040524/67839
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="Orange Cine 7" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 7
+http://otts.live:8000/50953282178305/26575968040524/67838
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="Orange Cine 8" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Orange Cine 8
+http://otts.live:8000/50953282178305/26575968040524/67837
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PARAMOUNT DECALE FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT DECALE FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23734
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PLANETE AE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE AE SD
+http://otts.live:8000/50953282178305/26575968040524/81031
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PLANETE CI HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",PLANETE CI HEVC
+http://otts.live:8000/50953282178305/26575968040524/75730
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PLANETE CI SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE CI SD
+http://otts.live:8000/50953282178305/26575968040524/81030
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="PLANETE HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",PLANETE HEVC
+http://otts.live:8000/50953282178305/26575968040524/75722
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="PLANETE SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE SD
+http://otts.live:8000/50953282178305/26575968040524/81029
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="PLANETE+" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+
+http://otts.live:8000/50953282178305/26575968040524/2563
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PLANETE+ CI" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+ CI
+http://otts.live:8000/50953282178305/26575968040524/2564
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="PLANETE+ CI FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+ CI FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23736
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="PLANETE+ FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",PLANETE+ FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23737
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT 4K" tvg-logo="" group-title="|EU| UHD/4K FRANCE",RMC SPORT 4K
+http://otts.live:8000/50953282178305/26575968040524/78679
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT 5" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 5
+http://otts.live:8000/50953282178305/26575968040524/22372
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT 6" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 6
+http://otts.live:8000/50953282178305/26575968040524/22373
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT 7" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC SPORT 7
+http://otts.live:8000/50953282178305/26575968040524/22374
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT1 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC SPORT1 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75690
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT2 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC SPORT2 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75691
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT3 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC SPORT3 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75692
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC SPORT4 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RMC SPORT4 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75693
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 10 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 10 HD
+http://otts.live:8000/50953282178305/26575968040524/78779
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 11 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 11 HD
+http://otts.live:8000/50953282178305/26575968040524/78780
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 12 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 12 HD
+http://otts.live:8000/50953282178305/26575968040524/78781
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 13 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 13 HD
+http://otts.live:8000/50953282178305/26575968040524/78783
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 14 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 14 HD
+http://otts.live:8000/50953282178305/26575968040524/78782
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 15 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 15 HD
+http://otts.live:8000/50953282178305/26575968040524/78784
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 16 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 16 HD
+http://otts.live:8000/50953282178305/26575968040524/78785
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 8 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 8 HD
+http://otts.live:8000/50953282178305/26575968040524/78777
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="RMC Sport Live 9 HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",RMC Sport Live 9 HD
+http://otts.live:8000/50953282178305/26575968040524/78778
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="RTL9 FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RTL9 FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23751
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="RTL9 HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",RTL9 HEVC
+http://otts.live:8000/50953282178305/26575968040524/75684
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="RTL9 SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",RTL9 SD
+http://otts.live:8000/50953282178305/26575968040524/81015
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="SEASON" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SEASON
+http://otts.live:8000/50953282178305/26575968040524/46196
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="SEASON FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SEASON FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23725
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="STINGRAY HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",STINGRAY HD
+http://otts.live:8000/50953282178305/26575968040524/89994
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SUNDANCE TV
+http://otts.live:8000/50953282178305/26575968040524/22283
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="SUNDANCE TV FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SUNDANCE TV FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23696
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="SYFY FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SYFY FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23695
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="SYFY HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SYFY HD
+http://otts.live:8000/50953282178305/26575968040524/2569
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="SYFY SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",SYFY SD
+http://otts.live:8000/50953282178305/26575968040524/81009
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TF1 FULL HD 1" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD 1
+http://otts.live:8000/50953282178305/26575968040524/23761
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TRACE SPORT STARS HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",TRACE SPORT STARS HD
+http://otts.live:8000/50953282178305/26575968040524/162989
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TRACE TROPICAL" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TRACE TROPICAL
+http://otts.live:8000/50953282178305/26575968040524/46201
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="TREK" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TREK
+http://otts.live:8000/50953282178305/26575968040524/46195
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="TREK SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TREK SD
+http://otts.live:8000/50953282178305/26575968040524/81044
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TV BREIZH" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TV BREIZH
+http://otts.live:8000/50953282178305/26575968040524/5245
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TV BREIZH FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TV BREIZH FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23698
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="TV5" tvg-logo="" group-title="|EU| FRANCE TNTSAT",TV5
+http://otts.live:8000/50953282178305/26575968040524/2611
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="TV8" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TV8
+http://otts.live:8000/50953282178305/26575968040524/68077
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="TV8 SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",TV8 SD
+http://otts.live:8000/50953282178305/26575968040524/81081
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="ULTRA NATURE 4K" tvg-logo="" group-title="|EU| UHD/4K FRANCE",ULTRA NATURE 4K
+http://otts.live:8000/50953282178305/26575968040524/133421
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="USHUAIA HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",USHUAIA HD
+http://otts.live:8000/50953282178305/26575968040524/372
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="USHUAIA HEVC" tvg-logo="" group-title="|EU| HEVC FRANCE",USHUAIA HEVC
+http://otts.live:8000/50953282178305/26575968040524/75728
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",VH1 CLASSIC
+http://otts.live:8000/50953282178305/26575968040524/46205
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",VH1 CLASSIC SD
+http://otts.live:8000/50953282178305/26575968040524/81082
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="nan" tvg-name="VICELAND FULL HD" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",VICELAND FULL HD
+http://otts.live:8000/50953282178305/26575968040524/23686
+#EXTINF:-1 tvg-chno="99999" tvh-chnum="99999" tvg-id="" tvg-name="WEO HD" tvg-logo="" group-title="|EU| FRANCE TNTSAT",WEO HD
+http://otts.live:8000/50953282178305/26575968040524/79343

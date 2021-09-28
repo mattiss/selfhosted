@@ -1,0 +1,68 @@
+version: '3'
+services:
+  # m3ufilter:
+  #   build: ./m3ufilter
+  #   container_name: m3ufilter
+  #   restart: "unless-stopped"
+  #   entrypoint: [ "/m3u-filter", "-config", "/config/.m3u.conf" ]
+  #   # ports:
+  #   #   - '9090:9090'
+  #   volumes:
+  #     - m3ufilter_config:/config
+  #   networks:
+  #     - traefik_default
+  #   labels:
+  #     traefik.http.routers.iptv.rule: "Host(`iptv.${MY_DOMAIN}`)"
+  #     traefik.http.services.iptv.loadbalancer.server.port: "9090"
+  #     # traefik.http.routers.iptv.entrypoints: "web"
+  #     traefik.http.routers.iptv.entrypoints: "websecure"
+  #     traefik.http.routers.iptv.tls: "true"
+  #     traefik.http.routers.iptv.tls.certresolver: "letsencrypt"
+  #     traefik.http.routers.iptv.tls.domains[0].main: "iptv.${MY_DOMAIN}"
+  #     traefik.docker.network: "traefik_default"
+  #     traefik.enable: "true"
+      
+  # m3ufilter-offline:
+  #   image: hoshsadiq/m3ufilter:latest
+  #   container_name: m3ufilter-offline
+  #   restart: "no"
+  #   entrypoint: [ "/m3u-filter", "-config", "/config/.csv.conf", "-playlist", "/data/iptv.csv" ]
+  #   volumes:
+  #     - m3ufilter_config:/config
+  #     - m3ufilter_data:/data
+
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    restart: "unless-stopped"
+    # ports:
+    # - '8096:8096'
+    volumes:
+      - jellyfin_config:/config
+      - jellyfin_cache:/cache
+      - jellyfin_media:/media
+    networks:
+      - traefik_default
+    labels:
+      traefik.http.routers.jellyfin.rule: "Host(`jellyfin.${MY_DOMAIN}`)"
+      traefik.http.services.jellyfin.loadbalancer.server.port: "8096"
+      # traefik.http.routers.jellyfin.entrypoints: "web"
+      traefik.http.routers.jellyfin.entrypoints: "websecure"
+      traefik.http.routers.jellyfin.tls: "true"
+      traefik.http.routers.jellyfin.tls.certresolver: "letsencrypt"
+      traefik.http.routers.jellyfin.tls.domains[0].main: "jellyfin.${MY_DOMAIN}"
+      traefik.docker.network: "traefik_default"
+      traefik.enable: "true"
+    user: 1000:1000
+
+volumes:
+  jellyfin_config:
+  jellyfin_cache:
+  jellyfin_media:
+  # m3ufilter_config:
+  # m3ufilter_data:
+
+networks:
+  traefik_default:
+    external: 
+      name: traefik_default
