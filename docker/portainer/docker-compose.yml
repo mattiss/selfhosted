@@ -1,0 +1,33 @@
+version: "3"
+
+services:
+  traefik:
+    image: portainer/portainer-ce:2.1.1-alpine
+    container_name: portainer
+    # ports:
+    #   - 9000:9000
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - data:/data
+    environment:
+      TZ: "Europe/Paris"
+    labels:
+      traefik.http.routers.portainer.rule: "Host(`portainer.${MY_DOMAIN}`)"
+      traefik.http.services.portainer.loadbalancer.server.port: "9000"
+      traefik.http.routers.portainer.entrypoints: "websecure"
+      traefik.http.routers.portainer.tls: "true"
+      traefik.http.routers.portainer.tls.certresolver: "letsencrypt"
+      traefik.http.routers.portainer.tls.domains[0].main: "portainer.${MY_DOMAIN}"
+      traefik.docker.network: "traefik_default"
+      traefik.enable: "true"
+    restart: unless-stopped
+    networks: 
+      - traefik_default
+
+volumes:
+  data:
+
+networks:
+  traefik_default:
+    external: 
+      name: traefik_default
