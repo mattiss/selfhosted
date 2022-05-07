@@ -1,0 +1,44 @@
+version: '2'
+services:
+ transmission:
+  image: haugene/transmission-openvpn:2.10-alpine
+  container_name: transmission
+  cap_add:
+    - NET_ADMIN
+  devices:
+    - /dev/net/tun
+  restart: "unless-stopped"
+  ports:
+    - "9091:9091"
+    - "8888:8888"
+  dns:
+    - 8.8.8.8
+    - 8.8.4.4
+  volumes:
+    - config:/config
+    - data:/data
+    - bananas_downloads:/data/completed
+  environment:
+    - PUID=1028
+    - PGID=100
+    - OPENVPN_PROVIDER=${VPN_PROVIDER}
+    - OPENVPN_USERNAME=${VPN_USER}
+    - OPENVPN_PASSWORD=${VPN_PASSWORD}
+    - LOCAL_NETWORK=192.168.0.0/24
+    - TRANSMISSION_RATIO_LIMIT=1.00
+    - TRANSMISSION_RATIO_LIMIT_ENABLED=true
+    - TRANSMISSION_WATCH_DIR=/data/watch
+    - TRANSMISSION_WATCH_DIR_ENABLED=true
+    - TRANSMISSION_INCOMPLETE_DIR=/data/incomplete
+    - TRANSMISSION_INCOMPLETE_DIR_ENABLED=true
+    - TRANSMISSION_DOWNLOAD_DIR=/data/completed/incoming
+    - TRANSMISSION_SPEED_LIMIT_UP=25
+    - TRANSMISSION_SPEED_LIMIT_UP_ENABLED=true
+    - TRANSMISSION_TRASH_ORIGINAL_TORRENT_FILES=true
+    - TRANSMISSION_START_ADDED_TORRENTS=true
+
+volumes:
+  transmission_config:
+  transmission_data:
+  bananas_downloads:
+    external: true
