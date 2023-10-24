@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  iptv:
+    image: nginx:1.19-alpine
+    container_name: nginx-iptv
+    restart: "unless-stopped"
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+#      - data:/usr/share/nginx/html
+      - iptv_playlists:/usr/share/nginx/html
+      - config:/etc/nginx/conf.d
+    networks:
+      - traefik_default
+    labels:
+      # Traefik configuration, Hostname needs to be changed
+      traefik.http.routers.nginx.rule: "Host(`iptv.${MY_DOMAIN}`)"
+      traefik.http.services.nginx.loadbalancer.server.port: "80"
+      # traefik.http.routers.nginx.entrypoints: "web"
+      traefik.http.routers.nginx.entrypoints: "websecure"
+      traefik.http.routers.nginx.tls: "true"
+      traefik.http.routers.nginx.tls.certresolver: "letsencrypt"
+      traefik.http.routers.nginx.tls.domains[0].main: "iptv.${MY_DOMAIN}"
+      traefik.docker.network: "traefik_default"
+      traefik.enable: "true"
+    environment: 
+      EPG_REDIRECT_URL: ${EPG_REDIRECT_URL}  
+
+volumes:
+  data:
+  config:
+  iptv_playlists:
+    external: true
+
+networks:
+  traefik_default:
+    external: 
+      name: traefik_default
