@@ -2,7 +2,7 @@ version: "3"
 
 services:
   traefik:
-    image: traefik:v2.6.3
+    image: traefik:v2.11
     container_name: traefik
     ports:
       - 80:80
@@ -10,28 +10,33 @@ services:
       - 443:443
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - acme:/etc/traefik/acme
+      - "./letsencrypt:/letsencrypt"
     environment:
       TZ: "Europe/Paris"
-    command: [
-      "--log.level=DEBUG",
-      "--api.insecure=true",
-      "--providers.docker=true",
-      "--providers.docker.exposedbydefault=false",
-      "--entrypoints.web.address=:80",
-      "--entrypoints.web.http.redirections.entryPoint.to=websecure",
-      "--entrypoints.web.http.redirections.entryPoint.scheme=https",
-      "--entrypoints.web.http.redirections.entrypoint.permanent=true",
-      "--entrypoints.websecure.address=:443",
-      # "--certificatesresolvers.letsencrypt.acme.caserver=https://acme-staging-v02.api.letsencrypt.org/directory",
-      "--certificatesresolvers.letsencrypt.acme.email=${ACME_EMAIL}",
-      "--certificatesresolvers.letsencrypt.acme.storage=/etc/traefik/acme/acme.json",
-      # used during the challenge
-      "--certificatesresolvers.letsencrypt.acme.httpchallenge=true",
-      "--certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web"
-      ]
+      CLOUDFLARE_API_EMAIL: ${CLOUDFLARE_API_EMAIL}
+      CLOUDFLARE_API_KEY: ${CLOUDFLARE_API_KEY}
+      #CLOUDFLARE_DNS_API_TOKEN: ${CLOUDFLARE_DNS_API_TOKEN}
+      #CLOUDFLARE_ZONE_API_TOKEN: ${CLOUDFLARE_ZONE_API_TOKEN}
+    command: 
+      #- "--log.level=DEBUG"
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      #- "--entrypoints.web.http.redirections.entryPoint.to=websecure"
+      #- "--entrypoints.web.http.redirections.entryPoint.scheme=https"
+      #- "--entrypoints.web.http.redirections.entrypoint.permanent=true"
+      - "--entrypoints.websecure.address=:443"
+      - "--certificatesresolvers.myresolver.acme.dnschallenge=true"
+      - "--certificatesresolvers.myresolver.acme.dnschallenge.provider=cloudflare"
+      - "--certificatesresolvers.myresolver.acme.caserver=https://acme-staging-v02.api.letsencrypt.org/directory"
+      - "--certificatesresolvers.myresolver.acme.email=${ACME_EMAIL}"
+      - "--certificatesresolvers.myresolver.acme.storage=/letsencrypt/acme.json"
     restart: unless-stopped
+    networks: 
+      - homelab
 
-volumes:
-  acme:
-
+networks:
+  homelab:
+    external: true
+    name: homelab
