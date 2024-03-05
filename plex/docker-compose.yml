@@ -1,29 +1,64 @@
 version: '2'
-
 services:
   plex:
     image: plexinc/pms-docker
-    restart: unless-stopped
     container_name: plex
-    network_mode: host
-
+    restart: unless-stopped
+    ports:
+      - 32400:32400/tcp
+      - 8324:8324/tcp
+      - 32469:32469/tcp
+      - 1900:1900/udp
+      - 32410:32410/udp
+      - 32412:32412/udp
+      - 32413:32413/udp
+      - 32414:32414/udp
     environment:
+      - TZ=${TIMEZONE}
+      - PLEX_CLAIM=${PLEX_CLAIM}
+      - ADVERTISE_IP=http://${ADVERTISE_IP}:32400/
       - PUID=${PUID}
       - PGID=${PGID}
-      - TZ=Europe/Paris
-      - PLEX_CLAIM=${PLEX_CLAIM}
-      - HOSTNAME="PlexServer"
-
+    hostname: ${PLEX_SERVERNAME}
     volumes:
-      - config:/config
+      - $PERSIST/plex/plex_config:/config
       - transcode:/transcode
-      - bananas_downloads:/media/downloads
-      - bananas_video:/media/video
+      - downloads:/media/downloads
+      - video:/media/video
+    networks:
+      - homelab
+
+  xteve:
+    image: 'dnsforge/xteve'
+    container_name: xteve
+    restart: unless-stopped
+    environment:
+      - TZ=${TIMEZONE}
+      - PUID=${PUID}
+      - PGID=${PGID}
+    ports:
+      - 34400:34400
+    volumes:
+      - $PERSIST/plex/xteve_config:/home/xteve/conf
+      - xteve:/tmp/xteve
+    networks:
+      - homelab
+    # healthcheck:
+    #   test: curl -fSs http://127.0.0.1:34400 || exit 1
+    #   start_period: 180s
+    #   timeout: 10s
+    #   interval: 10s
+    #   retries: 3    
 
 volumes:
-  config:
   transcode:
-  bananas_downloads:
+  xteve:
+  downloads:
     external: true
-  bananas_video:
+  video:
+    external: true
+
+networks:
+  homelab:
+    name: homelab
     external: true
